@@ -25,7 +25,7 @@ To run the app locally, follow these steps:
 
 ## Credits
 
-This Project was made by ' Makki Harboub'
+This Project was made by ' Mekki Harboub'
 
 ## License
 
